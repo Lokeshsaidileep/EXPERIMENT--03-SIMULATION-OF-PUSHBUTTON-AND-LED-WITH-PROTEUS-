@@ -172,4 +172,3 @@ reg no : 212221230111
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
-
